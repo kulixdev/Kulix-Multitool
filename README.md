@@ -8,7 +8,7 @@
 </p>
 
 <p>
-  - Developed solely in <strong>Python</strong>, by <a href="https://github.com/kulixdev">KulixDev</a><br>
+  - Developed solely in <strong>Python</strong>, by <a href="https://github.com/kulixdev">Kulix</a><br>
   - Tool in <strong>English</strong> only<br>
   - Available on <strong>Windows</strong> and <strong>Linux</strong><br>
   &nbsp;&nbsp;&nbsp;&nbsp; - (Some features may currently lack Linux support and have not been completley tested)<br>
