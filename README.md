@@ -19,8 +19,8 @@
 <h1 align="center">Preview</h1>
 
 <p align="center">
-  <img src="Images/Kulix_Menu-1.png" width="49%"> 
-  <img src="Images/Kulix_Menu-2.png" width="49%"> 
+  <img src="Core/Images/Kulix_Menu-1.png" width="49%"> 
+  <img src="Core/Images/Kulix_Menu-2.png" width="49%"> 
   <br><br>
 </p>
 
