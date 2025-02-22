@@ -1,10 +1,10 @@
 # Copyright (c) Kulix  
-# See the file 'LICENSE' for copying permission  
+# See the file 'LICENSE' for your permissions while using this content 
 # ----------------------------------------------------------------------------------------------------------------------------------------------------------|   
 #     - Do not touch or modify the code below. If there is an error, please contact the owner, but under no circumstances should you touch the code  
 #     - In the case you wish to analyze this code under any circumstance; note that touching this code should not be altered under any circumstance  
 #            - If this code is altered, the owner holds no obligation for damages or errors caused by the altered code  
-#     - Do not resell this tool, do not credit it to yours  
+#     - Do not resell this tool, do not credit it as your own
 
 import sys
 import os
@@ -44,7 +44,7 @@ try:
                         repeat_count += 1
                     else:
                         if repeat_count >= 1:
-                            print(f"{BEFORE_CYAN + current_time_hour() + AFTER_CYAN} Hop to destination {last_hop} repeated {repeat_count + 1} times.")
+                            print(f"{BEFORE_CYAN + current_time_hour() + AFTER_CYAN} Hop to destination {last_hop} repeated {repeat_count + 1} times")
                         repeat_count = 0
 
                     if repeat_count == 0:
@@ -54,7 +54,7 @@ try:
                     last_hop = hop
 
                 if repeat_count >= 1:
-                    print(f"{BEFORE_CYAN + current_time_hour() + AFTER_CYAN} Hop to destination {last_hop} repeated {repeat_count + 1} times.")
+                    print(f"{BEFORE_CYAN + current_time_hour() + AFTER_CYAN} Hop to destination {last_hop} repeated {repeat_count + 1} times")
             else:
                 print(f"{BEFORE_CYAN + current_time_hour() + AFTER_CYAN} {GEN_INVALID} No response received")
         except Exception as e:

@@ -29,35 +29,46 @@
 <p>
 
 ```
-┌── 📡 - Network Tools
-│   ├─ Info
-│   └─ Site
+┌── 🚀 - Local Tools
+│   ├─ Launch-Putty
+│   ├─ Launch-Wireshark
+│   ├─ Launch-Stratoshark
+│   ├─ Launch-SystemInformer
+│   ├─ Launch-VirtualBox
+│   ├─ Launch-AdvancedIPScanner
+│   ├─ Metadata-Extractor
+│   ├─ Hidden-Process-Finder
+│   ├─ Netstat-Viewer
+│   └─ Bandwidth-Test
+│
+├── 📡 - Network Tools
+│   ├─ Ip-Lookup
+│   ├─ Ip-Scanner
+│   ├─ Ip-Port-Scanner
+│   ├─ Ip-Pinger
+│   ├─ Ip-Traceroute
+│   ├─ Subnet-Calculator
+│   └─ Network-Vulnerability-Scanner
 │
 ├── 🔎 - OSINT
-│   ├─ Username Lookup
-│   ├─ Email Tracker
-│   ├─ Email Lookup
-│   ├─ Phone Number Lookup
-│   └─ IP Lookup
-│
-├── 🚀 - Program Launcher
-│   ├─ Putty
-│   ├─ Wireshark
-│   ├─ Stratoshark
-│   ├─ SystemInformer
-│   ├─ VirtualBox
-│   └─ AdvancedIPScanner
+│   ├─ Username-Lookup
+│   ├─ Email-Tracker
+│   ├─ Email-Lookup
+│   └─ Phone-Number-Lookup 
 │
 └── 🌐 - Website Tools
-    ├─ Who Is Lookup
-    ├─ Website MX Lookup
-    ├─ Website Blacklist Check
-    ├─ Website Reverse Lookup
-    ├─ Website Record Lookup
-    ├─ Website DKIM Lookup
-    ├─ Website DMARC Lookup
-    ├─ Test Email Server
-    └─ Website SSL Check
+    ├─ Website-Vulnerability-Scanner
+    ├─ Website-Info-Scanner
+    ├─ Website-Url-Scanner
+    ├─ Website-MX-Lookup
+    ├─ Website-Blacklist-Check
+    ├─ Website-Record-Lookup
+    ├─ Website-Reverse-Lookup
+    ├─ Website-DKIM-Lookup
+    ├─ Website-DMARC-Lookup
+    ├─ Website-SSL-Check
+    ├─ Test-Email-Server
+    └─ Who-Is-Lookup
 ```
 
 <br><br>

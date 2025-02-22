@@ -12,3 +12,8 @@ phonenumbers
 ping3
 smbprotocol
 configparser
+mutagen
+PyPDF2
+openpyxl
+python-pptx
+python-magic
