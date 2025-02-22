@@ -140,3 +140,57 @@ Extra Information<br>
   - Scripts contained within <a href="https://github.com/kulixdev/Kulix-Multitool/tree/main/Core/Scripts">.\Core\Scripts</a> may be detected by your anti-virus depending on certain actions made within the scripts (in the case a specific script is hit by your anti-virus please inform me and I will create a sub-folder for such scripts)<br><br>
 <br><br>
 </p>
+
+<h1 align="center">Possible Features - Things to Do</h1>
+
+<h3>Things to Do</h3>
+<p>Ensure all scripts align with the new file structure from BETA Revision #2</p>
+
+<h3>🌐 Website Security</h3>
+<p>
+- SQL Injection & XSS Scanners – Detect SQL injection and XSS vulnerabilities<br><br>
+- Directory Bruteforce & Admin Finder – Locate hidden directories and common admin login pages<br><br>
+- CMS Security Scanner – Scan WordPress and other CMS for security weaknesses<br><br>
+- CMS Detector – Identify CMS types like WordPress, Joomla, Drupal<br><br>
+- Subdomain Takeover Scanner – Find vulnerable subdomains for takeovers<br><br>
+- DNS Zone Transfer Tester – Check for unauthorized DNS zone transfers<br><br>
+- Header Security Checker – Analyze HTTP headers (HSTS, CSP, etc.)<br><br>
+- File Inclusion Scanner – Detect LFI/RFI vulnerabilities<br><br>
+</p>
+
+<h3>🕵️ Network & OSINT</h3>
+<p>
+- Mac Address Lookup – Identify manufacturers from MAC addresses<br><br>
+- Deep Whois Lookup – Access detailed WHOIS info, including historical data<br><br>
+- IP Geolocation History – Track IP location history<br><br>
+- Tor Exit Node Checker – Identify if an IP is a Tor exit node<br><br>
+- Automated OSINT – Gather data from Shodan, HaveIBeenPwned, etc.<br><br>
+- User-Agent Analyzer – Analyze browser user-agent strings<br><br>
+- Network Sniffer & Spoof Detector – Scan WiFi networks and check for spoofing<br><br>
+- Bluetooth Scanner – Discover and interact with Bluetooth devices<br><br>
+</p>
+
+<h3>🔒 Security</h3>
+<p>
+- Password Cracker & Hash Identifier – Crack password hashes and identify hash types (MD5, SHA256, etc.)<br><br>
+- Email Spoof Tester & Spam Detector – Detect email spoofing and phishing attempts<br><br>
+- Secure File Deleter & Password Tester – Erase files securely and test password strength<br><br>
+- DDoS & WAF Bypass Tester – Test DDoS protection and bypass WAFs (SQLi, XSS)<br><br>
+- CSRF & HTTP Request Smuggling Detectors – Scan for CSRF and HTTP smuggling vulnerabilities<br><br>
+- Rate Limiting Tester – Test for rate-limiting against brute force attacks<br><br>
+- DNS Rebinding & CORS Detectors – Detect DNS rebinding and misconfigured CORS settings<br><br>
+</p>
+
+<h3>🛡️ Privacy</h3>
+<p>
+- Leak Detector – Scan social media/data breaches for leaked data (employee, project details)<br><br>
+- Cloud Bucket Finder – Detect misconfigured cloud storage exposing data<br><br>
+- Phishing Site Detector – Identify likely phishing sites using known datasets<br><br>
+- API Key Exposure Scanner – Find exposed API keys on public sites<br><br>
+</p>
+
+<h3>📊 Performance</h3>
+<p>
+- Web App Performance Tester – Analyze and optimize website load times<br><br>
+- File Extension Detector – Verify allowed file types on websites/networks<br><br>
+</p>
