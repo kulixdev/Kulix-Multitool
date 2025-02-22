@@ -19,8 +19,8 @@
 <h1 align="center">Preview</h1>
 
 <p align="center">
-  <img src="Core/Images/Kulix_Menu-1.png" width="49%"> 
-  <img src="Core/Images/Kulix_Menu-2.png" width="49%"> 
+  <img src="Core/Images/Kulix_Page-1.png" width="49%"> 
+  <img src="Core/Images/Kulix_Page-2.png" width="49%"> 
   <br><br>
 </p>
 
@@ -80,7 +80,7 @@
 
 <p>
 - Windows 10 or above<br>
-- Install <a href="https://www.python.org/downloads/">Python</a> with the <a href="Images/Windows_Python_Path.png">PATH</a> options<br>
+- Install <a href="https://www.python.org/downloads/">Python</a> with the <a href="Core/Images/Windows_Python_Path.png">PATH</a> options<br>
 </p>
 
 <h3>Linux:</h3>
@@ -93,7 +93,7 @@
 
 <h1 align="center">Tool Installation</h1>
 
-<a href="https://github.com/kulixdev/Kulix-Multitool/releases/tag/v0.1-BETA">Latest release can be found here</a>
+<a href="https://github.com/kulixdev/Kulix-Multitool/releases/tag/v0.1.2-BETA">Latest release can be found here</a>
 
 <p>
 
@@ -116,17 +116,17 @@
 <strong>Installation Notes</strong>
 
 Manual installation of Executables (External Software) is required<br>
-&nbsp;&nbsp;&nbsp;&nbsp; - Installation links can be found in <a href="https://github.com/kulixdev/Kulix-Multitool/tree/main/Executables/Reinstall">.\Executables\Reinstall</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp; - Please than install the software to <a href="https://github.com/kulixdev/Kulix-Multitool/tree/main/Executables/Portables">.\Executables\Portables</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp; - Installation links can be found in <a href="https://github.com/kulixdev/Kulix-Multitool/tree/main/Core/Programs/Reinstall">.\Core\Programs\Reinstall</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp; - Please than install the software to <a href="https://github.com/kulixdev/Kulix-Multitool/tree/main/Core/Programs/Software">.\Core\Programs\Software</a><br>
 Executable Locations<br>
-&nbsp;&nbsp;&nbsp;&nbsp; - Putty should point to .\Executables\Portables\putty.exe<br>
-&nbsp;&nbsp;&nbsp;&nbsp; - Wireshark should point to .\Executables\Portables\WiresharkPortable64\WiresharkPortable64.exe<br>
-&nbsp;&nbsp;&nbsp;&nbsp; - Stratoshark should point to .\Executables\Portables\Stratoshark\Stratoshark.exe<br>
-&nbsp;&nbsp;&nbsp;&nbsp; - SystemInformer should point to .\Executables\Portables\SystemInformer\amd64\SystemInformer.exe<br>
-&nbsp;&nbsp;&nbsp;&nbsp; - VirtualBox should point to .\Executables\Portables\VirtualBox\VirtualBox.exe<br>
-&nbsp;&nbsp;&nbsp;&nbsp; - AdvancedIPScanner should point to .\Executables\Portables\AdvancedIPScanner\advanced_ip_scanner.exe<br>
+&nbsp;&nbsp;&nbsp;&nbsp; - Putty should point to .\Core\Programs\Software\putty.exe<br>
+&nbsp;&nbsp;&nbsp;&nbsp; - Wireshark should point to .\Core\Programs\Software\WiresharkPortable64\WiresharkPortable64.exe<br>
+&nbsp;&nbsp;&nbsp;&nbsp; - Stratoshark should point to .\Core\Programs\Software\Stratoshark\Stratoshark.exe<br>
+&nbsp;&nbsp;&nbsp;&nbsp; - SystemInformer should point to .\Core\Programs\Software\SystemInformer\amd64\SystemInformer.exe<br>
+&nbsp;&nbsp;&nbsp;&nbsp; - VirtualBox should point to .\Core\Programs\Software\VirtualBox\VirtualBox.exe<br>
+&nbsp;&nbsp;&nbsp;&nbsp; - AdvancedIPScanner should point to .\Core\Programs\Software\AdvancedIPScanner\advanced_ip_scanner.exe<br>
 Extra Information<br>
-&nbsp;&nbsp;&nbsp;&nbsp; - These locations can be manually changed in <a href="https://github.com/kulixdev/Kulix-Multitool/tree/main/Program">.\Program\Launch-ProgramName</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp; - These locations can be manually changed in <a href="https://github.com/kulixdev/Kulix-Multitool/tree/main/Core/Scripts">.\Core\Scripts\Launch-ProgramName</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp; - Support for the programs will be updated when possible, Linux, other versions of the software, etc<br>
 
 <br><br>
@@ -137,7 +137,6 @@ Extra Information<br>
 <p>
   - The Kulix Multitool has been created for professional and testing purposes <strong>ONLY</strong>, do <strong>NOT</strong> use this tool for malicious purposes<br><br>
   - By downloading and using the Kulix Multitool, you acknowledge and accept full responsibility for any consequences that may result from your actions in accordance with the <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">GNU GENERAL PUBLIC (GPL-3.0) LICENSE</a><br><br>
-  - Scripts contained within <a href="https://github.com/kulixdev/Kulix-Multitool/tree/main/Program">.\Program</a> may be detected by your anti-virus depending on certain actions made within the scripts (in the case a specific script is hit by your anti-virus please inform me and I will create a sub-folder for such scripts)<br><br>
-  - When changing Menus with 'N' or 'B' the process may be caught by your anti-virus as this writes to the file here <a href="https://github.com/kulixdev/Kulix-Multitool/blob/main/Program/Config/Menu.txt">.\Program\Config\Menu.txt</a> to store your menu number<br><br>
+  - Scripts contained within <a href="https://github.com/kulixdev/Kulix-Multitool/tree/main/Core/Scripts">.\Core\Scripts</a> may be detected by your anti-virus depending on certain actions made within the scripts (in the case a specific script is hit by your anti-virus please inform me and I will create a sub-folder for such scripts)<br><br>
 <br><br>
 </p>
