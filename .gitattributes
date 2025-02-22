@@ -1,0 +1,5 @@
+LICENSE export-ignore
+README.md export-ignore
+.gitattributes export-ignore
+Core/Images/* export-ignore
+Core/Programs/Software/* export-ignore
